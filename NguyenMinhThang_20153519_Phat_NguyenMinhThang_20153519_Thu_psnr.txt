@@ -1,0 +1,23 @@
+10:12:51	Opening original "D:\Da phuong tien\NguyenMinhThang_20153519_Phat.mp4"
+10:12:51	Using mode FFmpeg
+
+10:12:51	Input format QuickTime / MOV; input codec H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+10:12:51	Pixel format: 1280x720; yuvj420p
+10:12:51	Pixel format of video was scaled to supported format
+10:12:51	"D:\Da phuong tien\NguyenMinhThang_20153519_Phat.mp4" yuvj420p -> YV12 QuickTime / MOV
+10:12:51	Files default resolution is set to 1280x720
+10:12:51	Default length is set to 6181
+10:12:51	Opened original yuvj420p -> YV12 QuickTime / MOV
+10:12:51	Opening distorted "D:\Da phuong tien\NguyenMinhThang_20153519_Thu.mp4"
+10:12:51	Using mode FFmpeg
+
+10:12:51	Input format QuickTime / MOV; input codec H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+10:12:52	Pixel format: 1280x720; yuvj420p
+10:12:52	Pixel format of video was scaled to supported format
+10:12:52	"D:\Da phuong tien\NguyenMinhThang_20153519_Thu.mp4" yuvj420p -> YV12 QuickTime / MOV
+10:12:52	Default length changed to 5393
+10:12:52	Opened distorted yuvj420p -> YV12 QuickTime / MOV
+10:12:52	Loaded APSNR (256)
+10:14:12	Done!
+10:14:13	Saving bad frames to "D:\Da phuong tien\"
+10:14:21	Bad frames saved
